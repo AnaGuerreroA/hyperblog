@@ -1,7 +1,8 @@
                         Cabeza
 
 
-brazo izquierdo         torzo           brazo derecho
-                        torzo
-                        torzo
-                        torzo    
+brazo izquierdo         torso           brazo derecho
+                        torso
+                        torso
+                        torso    
+pierna izquierda                        pierna derecha
